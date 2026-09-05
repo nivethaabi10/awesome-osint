@@ -392,6 +392,7 @@ algorithms, knowledgebase and AI technology.
 * [Write.as](https://write.as/) - Type words, put them on the internet.
 * [ZBin](https://zbin.dev/) - Private & Secure Pastebin.
 * [ZeroBin](https://sebsauvage.net/paste/) - ZeroBin is a minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+* [PrimeNotepad Share Text](https://www.primenotepad.com/share-text) - PrimeNotepad Share Text is an online text-sharing service that lets users create temporary shareable links for pasted text.
 
 
 ## [↑](#-table-of-contents) Code Search
