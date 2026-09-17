@@ -379,6 +379,7 @@ algorithms, knowledgebase and AI technology.
 * [PasteSite.Net](https://pastesite.net/) - The new generation pastebin.
 * [paste.sh](https://paste.sh/) - This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.
 * [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
+* [PrimeNotepad Share Text](https://www.primenotepad.com/share-text) - PrimeNotepad Share Text is an online text-sharing service that lets users create temporary shareable links for pasted text.
 * [Rentry](https://rentry.co/) - Rentry.co is a markdown paste service service with preview, custom urls and editing. Fast, simple and free.
 * [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
 * [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
@@ -392,7 +393,6 @@ algorithms, knowledgebase and AI technology.
 * [Write.as](https://write.as/) - Type words, put them on the internet.
 * [ZBin](https://zbin.dev/) - Private & Secure Pastebin.
 * [ZeroBin](https://sebsauvage.net/paste/) - ZeroBin is a minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-* [PrimeNotepad Share Text](https://www.primenotepad.com/share-text) - PrimeNotepad Share Text is an online text-sharing service that lets users create temporary shareable links for pasted text.
 
 
 ## [↑](#-table-of-contents) Code Search
